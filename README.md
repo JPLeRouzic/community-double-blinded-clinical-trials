@@ -13,4 +13,4 @@ To understand those failures, there are some aspects that are important to reali
 - Clinical trials should use Haley platform like methodologies to make sure that no patient is left only with placebo.
 - Hosted software should manage the double blinded procurement of drugs.
 
-We will propose here a tailored low cost Clinical Data Management System that fits those requirements. 
+We will propose here a tailored low cost Clinical trial management system that fits those requirements. 
