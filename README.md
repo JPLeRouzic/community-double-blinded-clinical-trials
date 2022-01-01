@@ -1,4 +1,4 @@
-# Low-cost-clinical-trials
+# Community double blinded clinical trials
 There is something weird with clinical trials on neurodegenerative diseases, they seem to always fail.
 For example there were ~50 completed interventional phase III ALS clinical trials and ~170 completed interventional  phase III Alzheimer clinical trials. On overall there were nearly 2500 interventional clinical trials on Alzheimer disease. For diabetes it is even worth: ~ 1500 completed interventional phase III studies!
 
