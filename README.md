@@ -10,7 +10,7 @@ To understand those failures, there are some aspects that are important to reali
 - Actors of clinical trials are sometime not very reliable. The recruitement of patients may have flaws, medical examinations may be sloppy, and anyway patients take supplements when they think they are in the control group.
 - Most drugs used in neurodegenerative diseases have strong side effects such as they can't be seriously considered for long term use. This lead to reluctance to prescribe by primary care physicians.
 - Clinical trials should rely on the medical professionals who will interact with patients on a day to day basis.
-- Clinical trials should use Haley platform like methodologies to make sure that no patient is left only with placebo.
+- Clinical trials should use Healey platform-like methodologies to make sure that no patient is left only with placebo.
 - Hosted software should manage the double blinded procurement of drugs.
 
 We will propose here a tailored low cost Clinical trial management system that fits those requirements. 
