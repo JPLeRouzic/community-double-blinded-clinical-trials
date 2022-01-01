@@ -14,3 +14,10 @@ To understand those failures, there are some aspects that are important to reali
 - Hosted software should manage the double blinded procurement of drugs.
 
 We will propose here a tailored low cost Clinical trial management system that fits those requirements. 
+
+- The idea would be to let primary care practitioner (GP in UK parlance) to take part in the clinical trial. A MD treats their own patients.
+- The clinical trial would typically last much longer than the industry standard which is 6 months.
+- The doubled blinded study would use a volunteer organization to blind drugs and send it to medical doctors who would administrate it their patients.
+- No patient should be let only with a placebo, a Healey platform design-like is mandated.
+- The software solution take care of regulations and comply with them.
+- The software solution is operated under the control of an ad hoc organization with clear roles.
