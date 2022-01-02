@@ -21,3 +21,5 @@ We will propose here a tailored low cost Clinical trial management system that f
 - No patient should be let only with a placebo, a Healey platform design-like is mandated.
 - The software solution take care of regulations and comply with them.
 - The software solution is operated under the control of an ad hoc organization with clear roles.
+
+You can mail us at contact@padiracinnovation.org
